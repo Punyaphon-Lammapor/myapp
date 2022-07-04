@@ -1,3 +1,3 @@
 public class Z {
-    public int z;
+    private int z;
 }
